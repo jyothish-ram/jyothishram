@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jyothishram
 - 👀 I’m interested in sdp
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently Engineering Student
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
           ph no: +919809446055
