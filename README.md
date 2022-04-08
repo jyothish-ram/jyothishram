@@ -2,9 +2,8 @@
 - 👀 I’m interested in sdp
 - 🌱 I’m currently Engineering Student
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-          ph no: +919809446055
-          email: jyothishram.jn@gmail.com
+- 📫 How to reach me
+          email: jyothishram55@gmail.com
 
 <!---
 jyothishram/jyothishram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
