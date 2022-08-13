@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jyothishram
-- 👀 I’m interested in sdp
+- 👀 I’m interested in ml, robotics, app devopment
 - 🌱 I’m currently Engineering Student
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
